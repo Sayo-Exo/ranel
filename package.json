@@ -1,0 +1,19 @@
+{
+  "name": "ranel",
+  "version": "1.0.0",
+  "description": "Ranel is a small programming language for beginners.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayo-exo/ranel.git"
+  },
+  "keywords": [],
+  "author": "Exotik",
+  "license": "ISC"
+}
